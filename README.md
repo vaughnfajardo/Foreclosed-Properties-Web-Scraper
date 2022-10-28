@@ -1,4 +1,4 @@
-# Foreclosed Properties Online Web Scraper
+# ForeclosedPropertiesOnlineWebScraper
 
 This webscraper utilizes BeautifulSoup and Selenium to scrape property details off a website. This repository also contains the dataset generated from the webscraper, as a CSV file. 
 
