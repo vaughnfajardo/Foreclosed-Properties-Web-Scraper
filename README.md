@@ -1,6 +1,6 @@
 # ForeclosedPropertiesOnlineWebScraper
 
-This webscraper utilizes BeautifulSoup and Selenium to scrape property details off a website. This repository also contains the dataset generated from the webscraper, as a CSV file. 
+ForeclosedPropertiesOnlineWebScraper utilizes BeautifulSoup and Selenium to scrape property details off a website. This repository also contains the dataset generated from the webscraper, as a CSV file. 
 
 # Getting Started
 Prerequisites
@@ -8,8 +8,10 @@ Prerequisites
 >>`pip3 install beautifulsoup`
 > * Pandas
 >>`pip3 install pandas`
-
-
+> * Selenium
+>>`pip3 install selenium`
+> * ChromeDriverManager
+>>`pip3 install ChromeDriverManager`
 
 # Usage
 Upon the execution of the script, the code will immediately start scraping data off of the website which will not included in this code for privacy purposes. A comma separated value file will be generated thereafter.
